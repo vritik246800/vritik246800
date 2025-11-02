@@ -83,11 +83,13 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
   <a href="https://github.com/vritik246800/POO2_TB2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=POO2_TB2&theme=tokyonight&hide_border=true" alt="POO2_TB2 Project" />
   </a>
-  <!-- Add more project cards below if you wish -->
+  <a href="https://github.com/vritik246800/Java_Facul_Backup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=Java_Facul_Backup&theme=tokyonight&hide_border=true" alt="Java_Facul_Backup Project" />
+  </a>
 </p>
 
 <p align="center">
-  🔍 *These are some of my ongoing or learning projects.*
+  🔍 *These are some of my ongoing academic and practical projects.*
 </p>
 
 
