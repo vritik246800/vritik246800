@@ -94,15 +94,12 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 
 ---
 
-## 🕹️ Snake Game (Demo)
+## 🐍 GitHub Snake (My Contributions in Motion)
 
 <p align="center">
-  <img src="./assets/snake_demo.gif" alt="Snake Game demo" style="max-width:600px; width:100%; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/vritik246800/vritik246800/output/github-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-  ![snake gif](https://github.com/vritik246800/vritik246800/blob/main/snake.yml)
-</p>
 
 ---
 
