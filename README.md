@@ -97,11 +97,11 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 ## 🕹️ Snake Game (Demo)
 
 <p align="center">
-  <img src="./assets/snake_demo.gif" alt="Snake Game demo" style="max-width:600px; width:100%;" />
+  <img src="./assets/snake_demo.gif" alt="Snake Game demo" style="max-width:600px; width:100%; border-radius:10px;" />
 </p>
 
 <p align="center">
-  🟢 A small demo animation of my Snake game — no external link, just the animation.
+  🐍 A small demo animation of my Snake Game — just for fun!
 </p>
 
 ---
@@ -109,7 +109,9 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/vritik246800"><img src="https://img.shields.io/badge/GitHub-vritik246800-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/vritik246800">
+    <img src="https://img.shields.io/badge/GitHub-vritik246800-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
@@ -125,5 +127,3 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 ### 💬 Quote I Live By  
 > *“Code is the bridge between imagination and reality.”*  
 > — **Vritik Valabdás**
-
----
