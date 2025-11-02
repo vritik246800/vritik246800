@@ -1,6 +1,10 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3CF75C&center=true&vCenter=true&width=550&lines=Hey+there!+👋+I'm+Vritik+Valabdás;Aspiring+Java+Developer+%7C+Student+Programmer;Lifelong+Learner+💻" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving Hand GIF" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3CF75C&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Vritik+Valabdás;Aspiring+Java+Developer+%7C+Student+Programmer;Lifelong+Learner+💻" alt="Typing SVG" />
 </p>
 
 ---
@@ -65,6 +69,27 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 
 ---
 
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vritik246800&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧩 Featured & Recent Projects
+
+<p align="center">
+  <a href="https://github.com/vritik246800"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=police-management-system&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/vritik246800"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=library-management-system&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+<p align="center">
+  🔍 *These are some of my ongoing academic and practical projects.*
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -84,3 +109,5 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 ### 💬 Quote I Live By  
 > *“Code is the bridge between imagination and reality.”*  
 > — **Vritik Valabdás**
+
+---
