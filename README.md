@@ -80,13 +80,18 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 ## 🧩 Featured & Recent Projects
 
 <p align="center">
-  <a href="https://github.com/vritik246800"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=police-management-system&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/vritik246800"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=library-management-system&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/vritik246800/demo-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=demo-project&theme=tokyonight&hide_border=true" alt="Demo Project" />
+  </a>
+  <a href="https://github.com/vritik246800/java-desktop-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=java-desktop-system&theme=tokyonight&hide_border=true" alt="Java Desktop System" />
+  </a>
 </p>
 
 <p align="center">
-  🔍 *These are some of my ongoing academic and practical projects.*
+  🔍 *These are some of my ongoing or learning projects.*
 </p>
+
 
 ---
 
