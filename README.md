@@ -101,7 +101,7 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 </p>
 
 <p align="center">
-  🐍 A small demo animation of my Snake Game — just for fun!
+  ![snake gif](https://github.com/vritik246800/vritik246800/blob/output/github-snake-dark.svg)
 </p>
 
 ---
