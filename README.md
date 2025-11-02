@@ -1,14 +1,15 @@
 # 👋 Olá! Eu sou o **Vritik Valabdás**
 
-💻 **Desenvolvedor em formação** apaixonado por tecnologia, lógica e criação de soluções práticas através do código.  
-Atualmente, concentro-me no desenvolvimento de **sistemas de gestão**, **interfaces gráficas (Java Swing/AWT)** e **integração com bases de dados Oracle**.
+💻 **Estudante e desenvolvedor em formação**, apaixonado por tecnologia, lógica e pela criação de soluções práticas através do código.  
+Atualmente, estou a aprofundar os meus conhecimentos no **desenvolvimento de sistemas de gestão**, **interfaces gráficas em Java (Swing/AWT)** e **integração com bases de dados Oracle**.
 
 ---
 
 ## 🚀 O que estou a aprender atualmente
-- 🌱 **Desenvolvimento Web** (HTML, CSS, JavaScript, Node.js)  
+
+- 🌱 **Desenvolvimento Web** → HTML, CSS, JavaScript, Node.js  
 - 🧠 **Estruturas de Dados e Algoritmos Avançados**  
-- 🗃️ **Integração de Java com Oracle Database (JDBC, Procedures e Functions)**  
+- 🗃️ **Integração Java + Oracle (JDBC, Procedures e Functions)**  
 - 🧩 **Desenvolvimento de sistemas de gestão** (bibliotecas, supermercados, polícia, etc.)
 
 ---
@@ -26,24 +27,25 @@ Atualmente, concentro-me no desenvolvimento de **sistemas de gestão**, **interf
 
 ---
 
-## 🤝 Em que posso colaborar
-- Desenvolvimento de **sistemas desktop em Java**  
+## 🤝 Onde posso colaborar
+
+- Desenvolvimento de **projetos desktop em Java**  
 - **Integração de aplicações** com Oracle/MySQL  
-- Criação de **interfaces gráficas (Swing/AWT)** e relatórios PDF  
-- Projetos de **gestão escolar, bibliotecária ou comercial**
+- Criação de **interfaces gráficas (Swing/AWT)** e **relatórios PDF**  
+- Projetos académicos e de **gestão escolar, bibliotecária ou comercial**
 
 ---
 
 ## 📫 Como entrar em contacto
 
-🌍 **GitHub:** [https://github.com/vritik246800](https://github.com/vritik246800)
-
+🌍 **GitHub:** [github.com/vritik246800](https://github.com/vritik246800)
 
 ---
 
-## ✨ Curiosidades sobre mim
+## ✨ Um pouco sobre mim
+
+- Estou sempre à procura de aprender algo novo e melhorar as minhas práticas de programação.  
 - Gosto de transformar ideias complexas em soluções simples e funcionais.  
-- Adoro aprender novas tecnologias e explorar o lado lógico da programação.  
 - Tenho como objetivo tornar-me **desenvolvedor full stack** no futuro.  
 
 ---
