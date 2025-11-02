@@ -101,7 +101,7 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 </p>
 
 <p align="center">
-  ![snake gif](https://github.com/vritik246800/vritik246800/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/vritik246800/vritik246800/blob/main/snake.xml)
 </p>
 
 ---
