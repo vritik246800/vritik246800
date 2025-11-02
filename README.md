@@ -72,8 +72,9 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vritik246800&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&t=${{ github.run_id }}" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vritik246800&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&t=1" alt="GitHub Streak" />
 </p>
+
 
 ---
 
