@@ -1,54 +1,86 @@
-# 👋 Olá! Eu sou o **Vritik Valabdás**
-
-💻 **Estudante e desenvolvedor em formação**, apaixonado por tecnologia, lógica e pela criação de soluções práticas através do código.  
-Atualmente, estou a aprofundar os meus conhecimentos no **desenvolvimento de sistemas de gestão**, **interfaces gráficas em Java (Swing/AWT)** e **integração com bases de dados Oracle**.
-
----
-
-## 🚀 O que estou a aprender atualmente
-
-- 🌱 **Desenvolvimento Web** → HTML, CSS, JavaScript, Node.js  
-- 🧠 **Estruturas de Dados e Algoritmos Avançados**  
-- 🗃️ **Integração Java + Oracle (JDBC, Procedures e Functions)**  
-- 🧩 **Desenvolvimento de sistemas de gestão** (bibliotecas, supermercados, polícia, etc.)
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3CF75C&center=true&vCenter=true&width=550&lines=Hey+there!+👋+I'm+Vritik+Valabdás;Aspiring+Java+Developer+%7C+Student+Programmer;Lifelong+Learner+💻" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 👨‍💻 About Me
 
-| Área | Ferramentas |
-|------|--------------|
-| 💻 **Linguagens** | Java, SQL, PL/SQL, JavaScript |
-| 🧰 **Frameworks e APIs** | Swing, AWT, JDBC |
-| 🗄️ **Banco de Dados** | Oracle Database, MySQL |
-| 🧾 **Utilitários** | iTextPDF, FileReader/Writer, Java IO/NIO |
+💡 I'm **Vritik Valabdás**, a **student and aspiring developer** passionate about technology, logic, and turning ideas into functional code.  
+I'm currently learning **Java desktop development (Swing/AWT)** and exploring how to integrate **Oracle databases** with real-world management systems.
+
+---
+
+## 🚀 What I'm Learning
+
+- 🌱 **Web Development:** HTML, CSS, JavaScript, Node.js  
+- 🧠 **Data Structures & Advanced Algorithms**  
+- 🗃️ **Java + Oracle Integration (JDBC, Procedures, Functions)**  
+- 🧩 **Management Systems Development** (libraries, supermarkets, police systems, etc.)
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category | Tools |
+|-----------|--------|
+| 💻 **Languages** | Java, SQL, PL/SQL, JavaScript |
+| 🧰 **Frameworks & APIs** | Swing, AWT, JDBC |
+| 🗄️ **Databases** | Oracle Database, MySQL |
+| 🧾 **Utilities** | iTextPDF, FileReader/Writer, Java IO/NIO |
 | 🖥️ **IDEs** | IntelliJ IDEA, NetBeans, VS Code |
 | 🌐 **Web** | HTML5, CSS3, JavaScript |
 
 ---
 
-## 🤝 Onde posso colaborar
+## 💅 Skills & Technologies
 
-- Desenvolvimento de **projetos desktop em Java**  
-- **Integração de aplicações** com Oracle/MySQL  
-- Criação de **interfaces gráficas (Swing/AWT)** e **relatórios PDF**  
-- Projetos académicos e de **gestão escolar, bibliotecária ou comercial**
-
----
-
-## 📫 Como entrar em contacto
-
-🌍 **GitHub:** [github.com/vritik246800](https://github.com/vritik246800)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swing%2FAWT-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-336791?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Student%20Developer-2ECC71?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## ✨ Um pouco sobre mim
+## 🤝 What I Can Collaborate On
 
-- Estou sempre à procura de aprender algo novo e melhorar as minhas práticas de programação.  
-- Gosto de transformar ideias complexas em soluções simples e funcionais.  
-- Tenho como objetivo tornar-me **desenvolvedor full stack** no futuro.  
+- 🧩 **Java Desktop Applications**  
+- 🔗 **Database Integration (Oracle/MySQL)**  
+- 🖥️ **Graphical Interfaces (Swing/AWT)** and PDF generation  
+- 🎓 **Academic or management systems** (library, school, supermarket, etc.)
 
 ---
 
-### 💡 *“O código é a ponte entre a ideia e a realidade.”*  
-🧑‍💻 — *Vritik Valabdás*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vritik246800&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vritik246800&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/vritik246800"><img src="https://img.shields.io/badge/GitHub-vritik246800-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+## ✨ Fun Facts About Me
+
+- 🌱 Always curious and eager to learn new technologies.  
+- 💡 I love turning complex ideas into simple, efficient code.  
+- 🎯 My goal is to become a **Full Stack Developer** in the near future.  
+
+---
+
+### 💬 Quote I Live By  
+> *“Code is the bridge between imagination and reality.”*  
+> — **Vritik Valabdás**
