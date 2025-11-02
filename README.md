@@ -97,7 +97,7 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 ## 🐍 GitHub Snake (My Contributions in Motion)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vritik246800/vritik246800/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vritik246800/vritik246800/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
