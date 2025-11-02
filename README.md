@@ -80,12 +80,10 @@ I'm currently learning **Java desktop development (Swing/AWT)** and exploring ho
 ## 🧩 Featured & Recent Projects
 
 <p align="center">
-  <a href="https://github.com/vritik246800/demo-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=demo-project&theme=tokyonight&hide_border=true" alt="Demo Project" />
+  <a href="https://github.com/vritik246800/POO2_TB2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=POO2_TB2&theme=tokyonight&hide_border=true" alt="POO2_TB2 Project" />
   </a>
-  <a href="https://github.com/vritik246800/java-desktop-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=java-desktop-system&theme=tokyonight&hide_border=true" alt="Java Desktop System" />
-  </a>
+  <!-- Add more project cards below if you wish -->
 </p>
 
 <p align="center">
