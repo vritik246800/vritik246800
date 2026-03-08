@@ -8,8 +8,8 @@
 ╔══════════════════════════════════════════════════════╗
 ║  SYSTEM BOOT...                                      ║
 ║  USER: VRITIK VALABDÁS                               ║
-║  CLASS: DESIGNER + DEV // GRAPHIC REALISM MODE ON    ║
-║  STATUS: █████████████████████ ONLINE                ║
+║  CLASS: DESIGNER + DEV // GRAPHIC REALISM MODE ON   ║
+║  STATUS: █████████████████████ ONLINE               ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -48,7 +48,7 @@ O objectivo: sistemas que funcionam _e_ têm identidade visual.
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/JAVA-%23FF6B00.svg?style=for-the-badge&logo=openjdk&logoColor=00FFD1) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-%23FF2D78.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%2300FFD1.svg?style=for-the-badge&logo=css3&logoColor=000) ![Oracle](https://img.shields.io/badge/ORACLE-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MYSQL-%2300FFD1.svg?style=for-the-badge&logo=mysql&logoColor=000) ![Node.js](https://img.shields.io/badge/NODE.JS-%2300FF88.svg?style=for-the-badge&logo=node.js&logoColor=000) ![VS Code](https://img.shields.io/badge/VSCODE-%23FF2D78.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-%23FF6B00.svg?style=for-the-badge&logo=openjdk&logoColor=00FFD1) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-%23FF2D78.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%2300FFD1.svg?style=for-the-badge&logo=css3&logoColor=000) ![Oracle](https://img.shields.io/badge/ORACLE-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MYSQL-%2300FFD1.svg?style=for-the-badge&logo=mysql&logoColor=000) ![Node.js](https://img.shields.io/badge/NODE.JS-%2300FF88.svg?style=for-the-badge&logo=node.js&logoColor=000) ![Swift](https://img.shields.io/badge/SWIFT-%23FF6B00.svg?style=for-the-badge&logo=swift&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCODE-%23FF2D78.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -56,7 +56,7 @@ O objectivo: sistemas que funcionam _e_ têm identidade visual.
 
 ## `> STATS.terminal`
 
-<div align="center"> <img height="175em" src="https://github-readme-stats.vercel.app/api?username=vritik246800&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&title_color=00FFD1&text_color=FFFFFF&icon_color=FF2D78&bg_color=0D0D0D"/> <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vritik246800&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FFD1&text_color=FFFFFF&bg_color=0D0D0D"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=vritik246800&theme=radical&hide_border=true&background=0D0D0D&ring=FF2D78&fire=FF2D78&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=AAAAAA" /> </div>
+ <div align="center"> <img src="https://streak-stats.demolab.com?user=vritik246800&theme=radical&hide_border=true&background=0D0D0D&ring=FF2D78&fire=FF2D78&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=AAAAAA" /> </div>
 
 ---
 
