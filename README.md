@@ -8,8 +8,8 @@
 ╔══════════════════════════════════════════════════════╗
 ║  SYSTEM BOOT...                                      ║
 ║  USER: VRITIK VALABDÁS                               ║
-║  CLASS: DESIGNER + DEV // GRAPHIC REALISM MODE ON   ║
-║  STATUS: █████████████████████ ONLINE               ║
+║  CLASS: DESIGNER + DEV // GRAPHIC REALISM MODE ON    ║
+║  STATUS: █████████████████████ ONLINE                ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
