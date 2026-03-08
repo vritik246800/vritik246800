@@ -1,127 +1,87 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving Hand GIF" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3CF75C&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Vritik+Valabdás;Aspiring+Java+Developer+%7C+Student+Programmer;Lifelong+Learner+💻" alt="Typing SVG" />
-</p>
+<div align="center"> <!-- GLITCH HEADER SVG --> <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=VRITIK%20VALABDÁS&fontSize=60&color=0,255,200,100,255,0,200&stroke=00FFD1&strokeWidth=2&fontColor=00FFD1&animation=fadeIn&fontAlignY=65&desc=DESIGNER%20%2F%2F%20DEVELOPER%20%2F%2F%20HYBRID%20UNIT&descSize=14&descAlignY=85&descColor=FF2D78" width="100%"/> </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-💡 I'm **Vritik Valabdás**, a **student and aspiring developer** passionate about technology, logic, and turning ideas into functional code.  
-I'm currently learning **Java desktop development (Swing/AWT)** and exploring how to integrate **Oracle databases** with real-world management systems.
+```
+╔══════════════════════════════════════════════════════╗
+║  SYSTEM BOOT...                                      ║
+║  USER: VRITIK VALABDÁS                               ║
+║  CLASS: DESIGNER + DEV // GRAPHIC REALISM MODE ON   ║
+║  STATUS: █████████████████████ ONLINE               ║
+╚══════════════════════════════════════════════════════╝
+```
 
----
-
-## 🚀 What I'm Learning
-
-- 🌱 **Web Development:** HTML, CSS, JavaScript, Node.js  
-- 🧠 **Data Structures & Advanced Algorithms**  
-- 🗃️ **Java + Oracle Integration (JDBC, Procedures, Functions)**  
-- 🧩 **Management Systems Development** (libraries, supermarkets, police systems, etc.)
-
----
-
-## 🛠️ Tools & Technologies
-
-| Category | Tools |
-|-----------|--------|
-| 💻 **Languages** | Java, SQL, PL/SQL, JavaScript |
-| 🧰 **Frameworks & APIs** | Swing, AWT, JDBC |
-| 🗄️ **Databases** | Oracle Database, MySQL |
-| 🧾 **Utilities** | iTextPDF, FileReader/Writer, Java IO/NIO |
-| 🖥️ **IDEs** | IntelliJ IDEA, NetBeans, VS Code |
-| 🌐 **Web** | HTML5, CSS3, JavaScript |
+</div>
 
 ---
 
-## 💅 Skills & Technologies
+## `> ABOUT.exe`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swing%2FAWT-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-336791?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Student%20Developer-2ECC71?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+**Designer e developer** — construo interfaces onde estética e lógica coexistem.  
+O meu trabalho vive entre o **Graphic Realism** e o código funcional:  
+hyper-saturado, intencional, sem concessões ao genérico.
+
+Actualmente a expandir em **Java**, **Web Dev** e **integração com bases de dados**.  
+O objectivo: sistemas que funcionam _e_ têm identidade visual.
 
 ---
 
-## 🤝 What I Can Collaborate On
+## `> STACK.sys`
 
-- 🧩 **Java Desktop Applications**  
-- 🔗 **Database Integration (Oracle/MySQL)**  
-- 🖥️ **Graphical Interfaces (Swing/AWT)** and PDF generation  
-- 🎓 **Academic or management systems** (library, school, supermarket, etc.)
+<div align="center">
 
----
+|`LAYER`|`TOOLS`|
+|---|---|
+|⬡ **Languages**|Java · SQL · PL/SQL · JavaScript · HTML · CSS|
+|⬡ **Frameworks**|Swing · AWT · JDBC · Node.js|
+|⬡ **Databases**|Oracle · MySQL|
+|⬡ **Design**|Graphic Realism · Y2K Cyberpunk · Glitch Art|
+|⬡ **IDEs**|IntelliJ IDEA · VS Code · NetBeans|
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vritik246800&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vritik246800&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak Stats
+## `> SKILLS.grid`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vritik246800&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&t=1" alt="GitHub Streak" />
-</p>
+<div align="center">
 
+![Java](https://img.shields.io/badge/JAVA-%23FF6B00.svg?style=for-the-badge&logo=openjdk&logoColor=00FFD1) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-%23FF2D78.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%2300FFD1.svg?style=for-the-badge&logo=css3&logoColor=000) ![Oracle](https://img.shields.io/badge/ORACLE-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MYSQL-%2300FFD1.svg?style=for-the-badge&logo=mysql&logoColor=000) ![Node.js](https://img.shields.io/badge/NODE.JS-%2300FF88.svg?style=for-the-badge&logo=node.js&logoColor=000) ![VS Code](https://img.shields.io/badge/VSCODE-%23FF2D78.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 🧩 Featured & Recent Projects
-
-<p align="center">
-  <a href="https://github.com/vritik246800/POO2_TB2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=POO2_TB2&theme=tokyonight&hide_border=true" alt="POO2_TB2 Project" />
-  </a>
-  <a href="https://github.com/vritik246800/Java_Facul_Backup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vritik246800&repo=Java_Facul_Backup&theme=tokyonight&hide_border=true" alt="Java_Facul_Backup Project" />
-  </a>
-</p>
-
-<p align="center">
-  🔍 *These are some of my ongoing academic and practical projects.*
-</p>
+</div>
 
 ---
 
-## 🐍 GitHub Snake (My Contributions in Motion)
+## `> STATS.terminal`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vritik246800/vritik246800/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
+<div align="center"> <img height="175em" src="https://github-readme-stats.vercel.app/api?username=vritik246800&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&title_color=00FFD1&text_color=FFFFFF&icon_color=FF2D78&bg_color=0D0D0D"/> <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vritik246800&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FFD1&text_color=FFFFFF&bg_color=0D0D0D"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=vritik246800&theme=radical&hide_border=true&background=0D0D0D&ring=FF2D78&fire=FF2D78&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=AAAAAA" /> </div>
 
 ---
 
-## 📫 Connect With Me
+## `> CONTRIBUTIONS.snake`
 
-<p align="center">
-  <a href="https://github.com/vritik246800">
-    <img src="https://img.shields.io/badge/GitHub-vritik246800-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center"> <img src="https://raw.githubusercontent.com/vritik246800/vritik246800/output/github-snake-dark.svg"/> </div>
 
 ---
 
-## ✨ Fun Facts About Me
+## `> CONNECT.link`
 
-- 🌱 Always curious and eager to learn new technologies.  
-- 💡 I love turning complex ideas into simple, efficient code.  
-- 🎯 My goal is to become a **Full Stack Developer** in the near future.  
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-vritik246800-%2300FFD1?style=for-the-badge&logo=github&logoColor=00FFD1&labelColor=0D0D0D)](https://github.com/vritik246800)
+
+</div>
 
 ---
 
-### 💬 Quote I Live By  
-> *“Code is the bridge between imagination and reality.”*  
-> — **Vritik Valabdás**
+<div align="center">
+
+```
+// GRAPHIC REALISM — HYPER-SATURATED. INTENTIONAL. FUNCTIONAL.
+// "Design sem identidade é só decoração."
+//  — Vritik Valabdás
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255,0,255,200&height=3&section=footer" width="100%"/> </div>
