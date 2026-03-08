@@ -8,8 +8,8 @@
 ╔══════════════════════════════════════════════════════╗
 ║  SYSTEM BOOT...                                      ║
 ║  USER: VRITIK VALABDÁS                               ║
-║  CLASS: DESIGNER + DEV // GRAPHIC REALISM MODE ON   ║
-║  STATUS: █████████████████████ ONLINE               ║
+║  CLASS: DESIGNER + DEV // GRAPHIC REALISM MODE ON    ║
+║  STATUS: █████████████████████ ONLINE                ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -56,7 +56,7 @@ O objectivo: sistemas que funcionam _e_ têm identidade visual.
 
 ## `> STATS.terminal`
 
-<div align="center"> <img height="175em" src="https://github-readme-stats.vercel.app/api?username=vritik246800&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&title_color=00FFD1&text_color=FFFFFF&icon_color=FF2D78&bg_color=0D0D0D"/> <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vritik246800&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FFD1&text_color=FFFFFF&bg_color=0D0D0D"/> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=vritik246800&theme=radical&hide_border=true&background=0D0D0D&ring=FF2D78&fire=FF2D78&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=AAAAAA" /> </div>
+ <div align="center"> <img src="https://streak-stats.demolab.com?user=vritik246800&theme=radical&hide_border=true&background=0D0D0D&ring=FF2D78&fire=FF2D78&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=AAAAAA" /> </div>
 
 ---
 
