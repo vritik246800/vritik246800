@@ -70,7 +70,7 @@ O objectivo: sistemas que funcionam _e_ têm identidade visual.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-vritik246800-%2300FFD1?style=for-the-badge&logo=github&logoColor=00FFD1&labelColor=0D0D0D)](https://github.com/vritik246800) [![Portfolio](https://img.shields.io/badge/PORTFOLIO-vritik246800.github.io-%23FF2D78?style=for-the-badge&logo=firefox&logoColor=FF2D78&labelColor=0D0D0D)](https://vritikvalabdas-portofolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-vritik246800-%2300FFD1?style=for-the-badge&logo=github&logoColor=00FFD1&labelColor=0D0D0D)](https://github.com/vritik246800) [![Portfolio](https://img.shields.io/badge/PORTFOLIO-vritik.link-%23FF2D78?style=for-the-badge&logo=firefox&logoColor=FF2D78&labelColor=0D0D0D)](https://vritikvalabdas-portofolio.vercel.app/)
 
 </div>
 
