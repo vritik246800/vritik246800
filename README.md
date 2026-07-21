@@ -108,3 +108,5 @@ O objectivo: sistemas que funcionam _e_ têm identidade visual.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255,0,255,200&height=3&section=footer" width="100%"/> </div>
+
+<div align="center"> <!-- ANIMATED FOOTER WAVE --> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0,255,200,100,255,0,200&animation=twinkling" width="100%"/> </div>
