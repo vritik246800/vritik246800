@@ -23,12 +23,16 @@
 
 ## `> ABOUT.exe`
 
-**Designer e developer** — construo interfaces onde estética e lógica coexistem.  
-O meu trabalho vive entre o **Graphic Realism** e o código funcional:  
-hyper-saturado, intencional, sem concessões ao genérico.
+**Desenvolvedor fullstack** em Maputo, Moçambique — focado em **Java**, **Swift** e **Web**,  
+com experiência em sistemas desktop, redes locais e estruturas de dados.
 
-Actualmente a expandir em **Java**, **Web Dev** e **integração com bases de dados**.  
-O objectivo: sistemas que funcionam _e_ têm identidade visual.
+No lado nativo construo aplicações macOS com SwiftUI, explorando CoreData, padrões MVVM e interfaces glass.  
+No backend e sistemas académicos uso Java com POO, algoritmos e comunicação via Sockets TCP/UDP.
+
+Na web domino HTML, CSS e JavaScript — desde layout responsivo a animações e interacções dinâmicas.  
+Trabalho ainda com SQL para gestão de bases de dados relacionais.
+
+Valorizo código limpo, estruturado e funcional — e a curiosidade de perceber como os sistemas funcionam por dentro.
 
 ---
 
@@ -38,11 +42,11 @@ O objectivo: sistemas que funcionam _e_ têm identidade visual.
 
 |`LAYER`|`TOOLS`|
 |---|---|
-|⬡ **Languages**|Java · SQL · PL/SQL · JavaScript · HTML · CSS|
-|⬡ **Frameworks**|Swing · AWT · JDBC · Node.js|
-|⬡ **Databases**|Oracle · MySQL|
-|⬡ **Design**|Graphic Realism · Y2K Cyberpunk · Glitch Art|
-|⬡ **IDEs**|IntelliJ IDEA · VS Code · NetBeans|
+|⬡ **Languages**|Java · Rust · Swift · JavaScript · HTML · CSS · SQL|
+|⬡ **Frameworks**|SwiftUI · CoreData · Swing · Astro · Three.js · GSAP|
+|⬡ **Systems**|Estruturas de Dados · Redes TCP/UDP · GUI & TUI · WebGL|
+|⬡ **Databases**|SQL · Bases de dados relacionais|
+|⬡ **Tools**|Eclipse IDE · VS Code · Xcode · Obsidian · Git|
 
 </div>
 
@@ -52,11 +56,13 @@ O objectivo: sistemas que funcionam _e_ têm identidade visual.
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/JAVA-%23FF6B00.svg?style=for-the-badge&logo=openjdk&logoColor=00FFD1) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-%23FF2D78.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%2300FFD1.svg?style=for-the-badge&logo=css3&logoColor=000) ![Oracle](https://img.shields.io/badge/ORACLE-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MYSQL-%2300FFD1.svg?style=for-the-badge&logo=mysql&logoColor=000) ![Node.js](https://img.shields.io/badge/NODE.JS-%2300FF88.svg?style=for-the-badge&logo=node.js&logoColor=000) ![Swift](https://img.shields.io/badge/SWIFT-%23FF6B00.svg?style=for-the-badge&logo=swift&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCODE-%23FF2D78.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-%23FF6B00.svg?style=for-the-badge&logo=openjdk&logoColor=00FFD1) ![Rust](https://img.shields.io/badge/RUST-%23FF2D78.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/SWIFT-%23FF6B00.svg?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SWIFTUI-%2300FFD1.svg?style=for-the-badge&logo=swift&logoColor=000) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-%23FF2D78.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%2300FFD1.svg?style=for-the-badge&logo=css3&logoColor=000) ![SQL](https://img.shields.io/badge/SQL-%2300FF88.svg?style=for-the-badge&logo=postgresql&logoColor=000) ![Git](https://img.shields.io/badge/GIT-%23FF2D78.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Eclipse](https://img.shields.io/badge/ECLIPSE_IDE-%232C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=00FFD1) ![VS Code](https://img.shields.io/badge/VSCODE-%23FF2D78.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Xcode](https://img.shields.io/badge/XCODE-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white) ![Obsidian](https://img.shields.io/badge/OBSIDIAN-%237C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
 
-<div align="center"> <!-- ANIMATED SKILL ICONS --> <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,nodejs,idea,vscode&theme=dark&perline=8" alt="skill icons"/> </div>
+<div align="center"> <!-- ANIMATED SKILL ICONS --> <img src="https://skillicons.dev/icons?i=java,rust,swift,js,html,css,git,eclipse,vscode,obsidian&theme=dark&perline=10" alt="skill icons"/> </div>
 
 ---
 
