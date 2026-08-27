@@ -1,21 +1,16 @@
-<div align="center"> <!-- GLITCH HEADER SVG --> <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=VRITIK%20VALABDÁS&fontSize=60&color=0,255,200,100,255,0,200&stroke=00FFD1&strokeWidth=2&fontColor=00FFD1&animation=fadeIn&fontAlignY=65&desc=DESIGNER%20%2F%2F%20DEVELOPER%20%2F%2F%20HYBRID%20UNIT&descSize=14&descAlignY=85&descColor=FF2D78" width="100%"/> </div>
-
-<div align="center"> <!-- TYPING ANIMATION --> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=%3E+INICIALIZANDO+SISTEMA...+%E2%96%88%3E+DESIGNER+%2B+DEVELOPER;%3E+GRAPHIC+REALISM+MODE%3A+ON;%3E+JAVA+%7C+SQL+%7C+WEB+%7C+DESIGN;%3E+HIPER-SATURADO.+INTENCIONAL.+FUNCIONAL." alt="Typing SVG" /></a> </div>
-
----
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=VRITIK%20VALABD%C3%81S&fontSize=60&color=0,255,200,100,255,0,200&stroke=00FFD1&strokeWidth=2&fontColor=00FFD1&animation=fadeIn&fontAlignY=65&desc=C%C3%93DIGO%20DE%20SISTEMA%20%2F%2F%20INTERFACES%20COM%20IDENTIDADE&descSize=14&descAlignY=85&descColor=FF2D78" width="100%"/>
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  SYSTEM BOOT...                                      ║
 ║  USER: VRITIK VALABDÁS                               ║
-║  CLASS: DESIGNER + DEV // GRAPHIC REALISM MODE ON    ║
+║  LOC:  MAPUTO, MOÇAMBIQUE                            ║
+║  CLASS: DEVELOPER + DESIGNER // UNIDADE HÍBRIDA      ║
 ║  STATUS: █████████████████████ ONLINE                ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
-<img src="https://komarev.com/ghpvc/?username=vritik246800&label=PROFILE+VIEWS&color=FF2D78&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -23,83 +18,65 @@
 
 ## `> ABOUT.exe`
 
-**Desenvolvedor fullstack** em Maputo, Moçambique — focado em **Java**, **Swift** e **Web**,  
-com experiência em sistemas desktop, redes locais e estruturas de dados.
+Escrevo código de sistema e desenho interfaces — as duas coisas, não uma delas com jeitinho.
 
-No lado nativo construo aplicações macOS com SwiftUI, explorando CoreData, padrões MVVM e interfaces glass.  
-No backend e sistemas académicos uso Java com POO, algoritmos e comunicação via Sockets TCP/UDP.
+Do lado do sistema: estruturas de dados e algoritmos em Java, comunicação por sockets TCP/UDP,
+aplicações desktop e ferramentas de linha de comandos. Do lado visual: WebGL e Three.js, shaders,
+animação com GSAP — interfaces com identidade própria, não templates repintados.
 
-Na web domino HTML, CSS e JavaScript — desde layout responsivo a animações e interacções dinâmicas.  
-Trabalho ainda com SQL para gestão de bases de dados relacionais.
-
-Valorizo código limpo, estruturado e funcional — e a curiosidade de perceber como os sistemas funcionam por dentro.
+A maioria dos projetos aqui é académica e pessoal. Constrói-se para perceber como as coisas
+funcionam por dentro, e depois para que também se veja bem por fora.
 
 ---
 
 ## `> STACK.sys`
 
-<div align="center">
+Agrupado por profundidade real, não por categoria.
 
-|`LAYER`|`TOOLS`|
+|`NÍVEL`|`TECNOLOGIAS`|
 |---|---|
-|⬡ **Languages**|Java · Rust · Swift · JavaScript · HTML · CSS · SQL|
-|⬡ **Frameworks**|SwiftUI · CoreData · Swing · Astro · Three.js · GSAP|
-|⬡ **Systems**|Estruturas de Dados · Redes TCP/UDP · GUI & TUI · WebGL|
-|⬡ **Databases**|SQL · Bases de dados relacionais|
-|⬡ **Tools**|Eclipse IDE · VS Code · Xcode · Obsidian · Git|
-
-</div>
+|⬢ **Sólido**|Java (POO, estruturas de dados, algoritmos, Swing) · Sockets TCP/UDP · JavaScript · HTML · CSS · SQL · Three.js · WebGL · GSAP|
+|⬡ **Em desenvolvimento**|Swift · SwiftUI · CoreData · macOS nativo · Astro|
+|⬠ **Exploração**|Rust · CLI e TUI · Shaders|
+|⬡ **Ferramentas**|Git · Eclipse · VS Code · Xcode · Obsidian|
 
 ---
 
-## `> SKILLS.grid`
+## `> PROJETOS.dir`
+
+|`#`|`PROJETO`|`O QUÊ`|
+|---|---|---|
+|`01`|[**Sistema de Ocorrências Policiais**](https://vritikvalabdas-lab.vercel.app/esquadra.html)|Gestão de ocorrências em Java sobre árvores binárias — indexação e pesquisa feitas à mão.|
+|`02`|[**Mini Libry**](https://web-zeta-beige-90.vercel.app)|Galeria WebGL de mini-sites: cartões 3D com reflexo, navegáveis por scroll. Astro · Three.js · GSAP.|
+|`03`|[**Node Note**](https://vritikvalabdas-lab.vercel.app/nodenote.html)|Gestor de notas nativo para macOS, com interface glass. SwiftUI · CoreData.|
+|`04`|[**Biblioteca Comunitária**](https://vritikvalabdas-lab.vercel.app/biblioteca_comunitaria_rust.html)|Gestão de livros e empréstimos em Rust, TUI e persistência em ficheiros.|
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/JAVA-%23FF6B00.svg?style=for-the-badge&logo=openjdk&logoColor=00FFD1) ![Rust](https://img.shields.io/badge/RUST-%23FF2D78.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/SWIFT-%23FF6B00.svg?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SWIFTUI-%2300FFD1.svg?style=for-the-badge&logo=swift&logoColor=000) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-%23FF2D78.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%2300FFD1.svg?style=for-the-badge&logo=css3&logoColor=000) ![SQL](https://img.shields.io/badge/SQL-%2300FF88.svg?style=for-the-badge&logo=postgresql&logoColor=000) ![Git](https://img.shields.io/badge/GIT-%23FF2D78.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![Eclipse](https://img.shields.io/badge/ECLIPSE_IDE-%232C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=00FFD1) ![VS Code](https://img.shields.io/badge/VSCODE-%23FF2D78.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Xcode](https://img.shields.io/badge/XCODE-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white) ![Obsidian](https://img.shields.io/badge/OBSIDIAN-%237C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+[![Ver todos os projetos](https://img.shields.io/badge/VER_TODOS_OS_PROJETOS-%E2%86%92-%2300FFD1?style=for-the-badge&labelColor=0D0D0D)](https://vritik-portofolio.vercel.app/#projetos)
 
 </div>
-
-<div align="center"> <!-- ANIMATED SKILL ICONS --> <img src="https://skillicons.dev/icons?i=java,rust,swift,js,html,css,git,eclipse,vscode,obsidian&theme=dark&perline=10" alt="skill icons"/> </div>
 
 ---
 
 ## `> STATS.terminal`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vritik246800&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&icon_color=FF2D78&text_color=AAAAAA&ring_color=FF2D78" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vritik246800&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=AAAAAA" alt="Top languages"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vritik246800&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=AAAAAA" alt="Linguagens mais usadas"/>
+
 </div>
 
-<div align="center"> <img src="https://streak-stats.demolab.com?user=vritik246800&theme=radical&hide_border=true&background=0D0D0D&ring=FF2D78&fire=FF2D78&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=AAAAAA" alt="GitHub streak"/> </div>
-
 ---
 
-## `> TROPHIES.sys`
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vritik246800&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/> </div>
-
----
-
-## `> ACTIVITY.graph`
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vritik246800&bg_color=0D0D0D&color=00FFD1&line=FF2D78&point=00FFD1&area=true&area_color=FF2D78&hide_border=true" width="100%" alt="Activity graph"/> </div>
-
----
-
-## `> CONTRIBUTIONS.snake`
-
-<div align="center"> <img src="https://raw.githubusercontent.com/vritik246800/vritik246800/output/github-snake-dark.svg" alt="Snake animation"/> </div>
-
----
-
-## `> CONNECT.link`
+## `> LINKS.net`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-vritik246800-%2300FFD1?style=for-the-badge&logo=github&logoColor=00FFD1&labelColor=0D0D0D)](https://github.com/vritik246800) [![Portfolio](https://img.shields.io/badge/PORTFOLIO-vritik.link-%23FF2D78?style=for-the-badge&logo=firefox&logoColor=FF2D78&labelColor=0D0D0D)](https://vritik-portofolio.vercel.app/) [![Laboratorio](https://img.shields.io/badge/LABORATORIO-experiments-%23FF6B00?style=for-the-badge&logo=flask&logoColor=FF6B00&labelColor=0D0D0D)](https://vritikvalabdas-portofolio.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-%23FF2D78?style=for-the-badge&logo=firefox&logoColor=FF2D78&labelColor=0D0D0D)](https://vritik-portofolio.vercel.app/)
+[![The Lab](https://img.shields.io/badge/THE_LAB-%23FF6B00?style=for-the-badge&logo=flask&logoColor=FF6B00&labelColor=0D0D0D)](https://vritikvalabdas-lab.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://www.linkedin.com/in/vritik-valabdas-03436b367/)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-%23FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0D0D0D)](https://www.youtube.com/@vritikvalabdas2079)
 
 </div>
 
@@ -108,11 +85,10 @@ Valorizo código limpo, estruturado e funcional — e a curiosidade de perceber 
 <div align="center">
 
 ```
-// GRAPHIC REALISM — HYPER-SATURATED. INTENTIONAL. FUNCTIONAL.
 // "Design sem identidade é só decoração."
 //  — Vritik Valabdás
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255,0,255,200&height=3&section=footer" width="100%"/> </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0,255,200,100,255,0,200&animation=twinkling" width="100%"/>
 
-<div align="center"> <!-- ANIMATED FOOTER WAVE --> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0,255,200,100,255,0,200&animation=twinkling" width="100%"/> </div>
+</div>
