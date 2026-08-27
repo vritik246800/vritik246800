@@ -76,7 +76,6 @@ Agrupado por profundidade real, não por categoria.
 [![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-%23FF2D78?style=for-the-badge&logo=firefox&logoColor=FF2D78&labelColor=0D0D0D)](https://vritik-portofolio.vercel.app/)
 [![The Lab](https://img.shields.io/badge/THE_LAB-%23FF6B00?style=for-the-badge&logo=flask&logoColor=FF6B00&labelColor=0D0D0D)](https://vritikvalabdas-lab.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://www.linkedin.com/in/vritik-valabdas-03436b367/)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-%23FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0D0D0D)](https://www.youtube.com/@vritikvalabdas2079)
 
 </div>
 
